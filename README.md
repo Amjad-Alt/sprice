@@ -58,6 +58,7 @@ remotes::install_github("Amjad-Alt/sprice)
 
 ## Source 
 Data collected from here: https://www.stats.gov.sa/en/394
+
 Learn more about the completejourney data, and the type of insights you can look for, at https://amjad-alt.github.io/sprice/
 ## Bugs & Enhancements
 Your feedback allows us to be better. Please report any problems, bugs, or ideas for enhancement. You can report issues at:
