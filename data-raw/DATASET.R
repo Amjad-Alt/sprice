@@ -51,4 +51,4 @@ sprice<- sprice %>%
                  `Tabuk`,`Hail`,`Jazzan`,`Njran`,`Baha`,`Skaka`,`Arar`),
                names_to = "city", values_to = "price")
 
-usethis::use_data(sprice, overwrite = TRUE)
+#usethis::use_data(sprice, overwrite = TRUE)
